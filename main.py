@@ -42,7 +42,7 @@ if __name__ == '__main__':
     vacancies_info = [get_info(vacancy) for vacancy in vacancies]
     filter_vacancies = [vacancy for vacancy in vacancies_info if is_match(vacancy['link'])]
 
-    with open('vacansies.json', 'w') as f:
+    with open('vacancies.json', 'w') as f:
         json.dump(filter_vacancies, f, indent=2, ensure_ascii=False)
 
 
