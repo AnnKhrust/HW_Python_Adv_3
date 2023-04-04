@@ -1,0 +1,50 @@
+[
+  {
+    "city": "Москва",
+    "company": "Skyeng",
+    "salary": "60 000 – 100 000 руб.",
+    "link": "https://spb.hh.ru/vacancy/76767074?from=vacancy_search_list&query=python"
+  },
+  {
+    "city": "Москва",
+    "company": "ООО Фабрика Решений",
+    "salary": "60 000 – 220 000 руб.",
+    "link": "https://spb.hh.ru/vacancy/70705466?from=vacancy_search_list&query=python"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company": "ООО Единая Информационная Система ЖКХ",
+    "salary": "90 000 – 150 000 руб.",
+    "link": "https://spb.hh.ru/vacancy/77871173?from=vacancy_search_list&query=python"
+  },
+  {
+    "city": "Москва",
+    "company": "АО ФинТех",
+    "salary": "от 150 000 руб.",
+    "link": "https://spb.hh.ru/vacancy/78823037?from=vacancy_search_list&query=python"
+  },
+  {
+    "city": "Москва",
+    "company": "БО-ЭНЕРГО",
+    "salary": "130 000 – 130 000 руб.",
+    "link": "https://spb.hh.ru/vacancy/78853485?from=vacancy_search_list&query=python"
+  },
+  {
+    "city": "Москва",
+    "company": "Сеть салонов Caterina Leman",
+    "salary": "100 000 – 100 000 руб.",
+    "link": "https://spb.hh.ru/vacancy/77956088?from=vacancy_search_list&query=python"
+  },
+  {
+    "city": "Москва",
+    "company": "Apostro",
+    "salary": "до 8 000 USD",
+    "link": "https://spb.hh.ru/vacancy/78106381?from=vacancy_search_list&query=python"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "company": "Enjoypro",
+    "salary": "160 000 – 180 000 руб.",
+    "link": "https://spb.hh.ru/vacancy/78665689?from=vacancy_search_list&query=python"
+  }
+]
